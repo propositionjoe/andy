@@ -59,6 +59,8 @@ $(tput setaf 23)              ()     //
             (~~~)__.-\ |                                                  
              ~~ |    | |                                                  
                 |    | |"
+
+echo "Vous pouver vous rendre sur votre site $nomdedomaine. Il est sécurisé !"
 sleep 3s
 
 
