@@ -1,8 +1,10 @@
 Just bash launcher.sh !
 This is in french.
 
-chmod a+x launcher.sh
-./launcher.sh
+Launch :
+- chmod a+x launcher.sh
+
+- ./launcher.sh
 
 Provides :
 - Dnf update
