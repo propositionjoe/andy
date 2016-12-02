@@ -34,9 +34,7 @@ elif [ "$script" = "2" ]; then
 elif [ "$script" = "3" ]; then
   . ./scripts/nfs.sh
 elif [ "$script" = "4" ]; then
-  echo "Ne marche pas pour le moment, retour au menu..."
-  sleep 2s
-   ./launcher.sh
+  . ./scripts/letsencrypt.sh
 #elif [ "$script" = "5" ]; then
 #  . ./scripts/dnfupdate.sh
 #elif [ "$script" = "6" ]; then
